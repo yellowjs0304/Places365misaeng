@@ -1,0 +1,11 @@
+/c/car 0
+/c/corridor 1
+/l/lounge 2
+/m/meeting_room 3
+/o/office 4
+/o/office_pantry 5
+/o/outdoor 6
+/r/restaurant 7
+/r/rooftop 8
+/s/stairway 9
+/s/storage 10

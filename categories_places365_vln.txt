@@ -1,0 +1,10 @@
+/b/bathroom 45
+/b/bedroom 52
+/d/dining_room 121
+/d/doorway/outdoor 123
+/g/garage/indoor 156
+/k/kitchen 203
+/p/patio 259
+/s/staircase 317
+/s/swimming_pool/indoor 325
+/s/swimming_pool/outdoor 326

@@ -1,0 +1,10 @@
+/b/bathroom 1
+/b/bedroom 1
+/d/doorway/outdoor 2
+/d/dining_room 1
+/s/staircase 1
+/g/garage/indoor 1
+/k/kitchen 1
+/p/patio 2
+/s/swimming_pool/indoor 1
+/s/swimming_pool/outdoor 2
